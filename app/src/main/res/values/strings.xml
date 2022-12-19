@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Latihan Chapter 3 Android</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="screen_2">Screen 2</string>
+    <string name="label_go_to_screen_4">Go To Screen 4</string>
+    <string name="label_go_to_screen_3">Go To Screen 3</string>
+    <string name="label_go_to_screen_2">Go To Screen 2</string>
+    <string name="screen_3">Screen 3</string>
+    <string name="label_nama_anda">Nama anda</string>
+    <string name="label_masukkan_usia">Masukkan Usia</string>
+    <string name="label_masukkan_nama">Masukkan nama</string>
+    <string name="label_masukkan_alamat">Masukkan alamat</string>
+    <string name="label_masukkan_pekerjaan">Masukkan pekerjaan</string>
+    <string name="label_go_to_screen_5">Go To Screen 5</string>
+    <string name="label_pekerjaan_anda">Pekerjaan anda</string>
+    <string name="label_alamat_anda">Alamat anda</string>
+    <string name="label_usia_anda">Usia anda</string>
+    <string name="label_back_to_screen_3">Back to screen 3</string>
+    <string name="label_output">output</string>
+</resources>
